@@ -7,4 +7,4 @@ Linux/Darwin dotfiles
 - Bash
 - zsh
 - vim
-
+- tmux
